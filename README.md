@@ -2,7 +2,7 @@
 # Machine-Learning-Python
 HW for Machine Learning Courses
 
-## Including implementations or applications for following algorithms:
+## Including following algorithms:
 
 Linear Regression
 
